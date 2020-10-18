@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.message",
+      "type": "java.lang.String",
+      "description": "joe mama"
+    },
+    {
+      "name": "spring.message2",
+      "type": "java.lang.String",
+      "description": "joe mama2"
+    }
+  ] }
